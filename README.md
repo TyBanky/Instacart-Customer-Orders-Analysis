@@ -3,7 +3,7 @@
 I discovered this Instacart customer orders data on [Kaggle](https://www.kaggle.com/c/instacart-market-basket-analysis/data), and was curious to find out the following about **3.2M** grocery orders placed by over **200,000** Instacart customers:
 * What products are most commonly purchased?
 * What shopping patterns are exhibited by customers?
-  * Do they have a preferred shopping day and time of day?
+  * Do they have preferred shopping days/times?
   * How often do customers shop? Weekly? Bi-weekly?
 
 I cleaned, prepared and analyzed the avaialble data sets using Python. The Python codes I used are stored in this repository.
