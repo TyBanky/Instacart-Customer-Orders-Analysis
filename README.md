@@ -1,6 +1,6 @@
-![alt text](https://en.wikipedia.org/wiki/Instacart#/media/File:Instacart_carrot.svg)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/9/9f/Instacart_logo_and_wordmark.svg)
 # Instacart Customer Orders Analysis
-I discovered this Instacart customer orders data on [Kaggle](https://www.kaggle.com/c/instacart-market-basket-analysis/data), and was curious to find out the following about 3.2M grocery orders placed by over 200,000 Instacart customers:
+I discovered this Instacart customer orders data on [Kaggle](https://www.kaggle.com/c/instacart-market-basket-analysis/data), and was curious to find out the following about **3.2M** grocery orders placed by over **200,000** Instacart customers:
 * What products are most commonly purchased?
 * What shopping patterns are exhibited by customers?
   * Do they have a preferred shopping day and time of day?
