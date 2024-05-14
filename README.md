@@ -1,4 +1,4 @@
-![Instacart logo](https://images.app.goo.gl/jT5Wu3VNKGxgDZBx6)
+![Alt text](https://images.app.goo.gl/jT5Wu3VNKGxgDZBx6)
 # Instacart Customer Orders Analysis
 I discovered this Instacart customer orders data on [Kaggle](https://www.kaggle.com/c/instacart-market-basket-analysis/data), and was curious to find out the following about 3.2M grocery orders placed by over 200,000 Instacart customers:
 * What products are most commonly purchased?
