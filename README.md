@@ -12,7 +12,7 @@ I cleaned, prepared and analyzed the avaialble data sets using Python. The Pytho
 Here are the insights I uncovered from analyzing these data sets:
 * **29.2%** of all purchased products were from the Produce department.
   * **8.9%** of all purchased produce were bananas.
-* **34.7%** of all orders were placed on Sundays and Mondays.
+* **34.7%** of all orders were placed on Saturdays and Sundays.
 * **64.9%** of orders were recorded between **9am and 4pm** daily, with peak order volume (**8.4%** of total orders) recorded at **10am**.
 * Largest customer re-orders in descending order are experienced on a **30-day**, **7-day** and **6-day** cycle.
 
