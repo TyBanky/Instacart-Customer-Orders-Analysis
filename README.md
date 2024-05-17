@@ -13,7 +13,8 @@ Here are the insights I uncovered from analyzing these data sets:
 * **29.2%** of all purchased products were from the Produce department.
   * **8.9%** of all purchased produce were bananas.
 * **34.7%** of all orders were placed on Saturdays and Sundays.
-* **64.9%** of orders were recorded between **9am and 4pm** daily, with peak order volume (**8.4%** of total orders) recorded at **10am**.
+* **64.9%** of orders were recorded between **9am and 4pm** daily.
+* Minimum order volumes (**0.15%** of all orders) were recorded between **3am and 4am** daily.
 * Largest customer re-orders in descending order are experienced on a **30-day**, **7-day** and **6-day** cycle.
 
 A visual representation of my findings are also published in this [Instacart Customer Order Analysis Tableau dashboard](https://public.tableau.com/views/IntacartOrderAnalysis/InstacartCustomerOrderAnalysis?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link).
