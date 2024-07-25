@@ -6,7 +6,7 @@ I discovered these Instacart customer orders data sets on [Kaggle](https://www.k
   * Do they have preferred shopping days/times?
   * How often do customers shop? Weekly? Bi-weekly?
 
-I cleaned, prepared and analyzed the avaialble data sets using Python. The Python codes I used are stored in this repository.
+I cleaned, prepared and analyzed the available data sets using Python. The Python codes I used are stored in this repository.
 
 # Findings
 Here are the insights I uncovered from analyzing these data sets:
